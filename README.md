@@ -7,6 +7,35 @@ The aim of the project was to build a classifier that would be able to predict a
 
 **2)Libraries**</br>
 The following Python libraries should be installed:</br>
+click==7.1.2
+dnspython==2.1.0
+dominate==2.6.0
+email-validator==1.1.2
+Flask==1.1.2
+Flask-Bootstrap==3.3.7.1
+Flask-WTF==0.14.3
+gunicorn==20.0.4
+idna==3.1
+imbalanced-learn==0.7.0
+imblearn==0.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==1.0.0
+MarkupSafe==1.1.1
+numpy==1.19.4
+pandas==1.1.4
+plotly==4.13.0
+python-dateutil==2.8.1
+pytz==2020.4
+retrying==1.3.3
+scikit-learn==0.24.0
+scipy==1.5.4
+six==1.15.0
+SQLAlchemy==1.3.20
+threadpoolctl==2.1.0
+visitor==0.1.3
+Werkzeug==1.0.1
+WTForms==2.3.3
 
 **3) Files:**</br>
 The files are download from Figure Eight : https://appen.com. There are two files. 'disaster_categories.csv' contains a message id and 36 message categories columns that indicate with a zero or one whether that message belongs to that message category or not. 'desaster_message.csv'contains the same message id, the message text in English, the message text in the original language and a message genre.
