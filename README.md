@@ -1,5 +1,5 @@
 # capstone_heart_failure
-A machine learning project to make a classifier for possible hart failure.
+A machine learning project to make a classifier for possible heart failure.
 
 
 **1)Project Motivation**</br>
