@@ -40,7 +40,7 @@ WTForms==2.3.3
 **3) Files:**</br>
 The source file is a csv file, downloaded from Kaggle :
 </br>
-It is a small file with 13 columns who describe a number of medical, physical and social parameters
+It is a small file with 13 columns which describe a number of medical, physical and social parameters
 </br>
 **4)Run the Application:**
 </br>
