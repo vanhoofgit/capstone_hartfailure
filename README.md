@@ -38,8 +38,9 @@ Werkzeug==1.0.1
 WTForms==2.3.3
 
 **3) Files:**</br>
-The files are download from Figure Eight : https://appen.com. There are two files. 'disaster_categories.csv' contains a message id and 36 message categories columns that indicate with a zero or one whether that message belongs to that message category or not. 'desaster_message.csv'contains the same message id, the message text in English, the message text in the original language and a message genre.
+The source file is a csv file, downloaded from Kaggle :
 </br>
+It is a small file with 13 columns who describe a number of medical, physical and social parameters
 </br>
 **4)Run the Application:**
 </br>
