@@ -3,7 +3,7 @@ A machine learning project to make a classifier for possible heart failure.
 
 
 **1)Project Motivation**</br>
-The aim of the project was to build a classifier that would be able to predict a imminent heart failure
+Heart desease is still one of the leading causes of death worldwide. The aim of the project was to build a binary machine learning classifier that would be able to predict an imminent heart failure
 
 **2)Libraries**</br>
 The following Python libraries should be installed:</br>
