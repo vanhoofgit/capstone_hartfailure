@@ -43,10 +43,10 @@ The source file is a csv file, downloaded from Kaggle :
 It is a small file with 13 columns which describe a number of medical, physical and social parameters
 </br>
 **4)Run the Application:**
-</br>
-To run ETL pipeline that cleans data and stores in a database,from the root directory , type: </br>
-python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db 
-</br>
+<br>
+To run ETL pipeline that cleans data and stores in a database,from the root directory , type: <br>
+python data/process_data.py data/heart_failure_clinical_records_dataset.csv data/heartfailure.db 
+<br>
 To run the ML pipeline, type:</br>
 python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 </br>
