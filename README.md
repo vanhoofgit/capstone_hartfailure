@@ -16,6 +16,8 @@ pip3 install flask</br>
 pip3 install flask_wtf
 (This installs also WTForms)</br>
 pip3 install flask_bootstrap
+pip3 install email_validator
+pip3 install plotly
 
 
 Content of the requirements.txt file:
