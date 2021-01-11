@@ -39,6 +39,7 @@ WTForms==2.3.3
 
 The following installatuions were done :</br>
  pip3 install pandas
+ pip3 install sqlalchemy
 
 **3) Files:**</br>
 The source file is a csv file, downloaded from Kaggle :
