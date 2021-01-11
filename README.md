@@ -13,6 +13,9 @@ pip3 install imblearn</br>
 (This installs joblib,threadpoolctl,scipy,scikit-learn, imbalanced-learn, imblearn</br>
 pip3 install flask</br>
 (This install also itsdangerous, MarkupSafe, Jinja2, click, Werkzeug)</br>
+pip3 install flask_wtf
+(This installs also WTForms)</br>
+pip3 install flask_bootstrap
 
 
 Content of the requirements.txt file:
