@@ -49,7 +49,7 @@ python data/process_data.py data/heart_failure_clinical_records_dataset.csv data
 <br>
 <br>
 To run the ML pipeline, type:</br>
-python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+python models/train_predict.py data/heartfailure.db models/classifier.pkl
 <br>
 <br>
 To start the web app and test the classifier, from the root directory of the project type:</br>
