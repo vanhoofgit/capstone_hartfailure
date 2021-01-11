@@ -37,9 +37,11 @@ visitor==0.1.3
 Werkzeug==1.0.1
 WTForms==2.3.3
 
-The following installatuions were done :</br>
+The following installations were done in my virtual environment :</br>
  pip3 install pandas</br>
- pip3 install sqlalchemy
+ pip3 install sqlalchemy</br>
+ pip3 install imblearn</br>
+ (This installs joblib,threadpoolctl,scipy,scikit-learn, imbalanced-learn, imblearn</br>
 
 **3) Files:**</br>
 The source file is a csv file, downloaded from Kaggle :
