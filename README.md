@@ -24,7 +24,8 @@ Content of the requirements.txt file:
 
 
 **3) Files:**</br>
-The source file is a csv file, downloaded from Kaggle :https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+The source file is a csv file, downloaded from Kaggle :</br>
+https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 </br>
 It is a small file with 13 columns which describe a number of medical, physical and social parameters
 </br>
