@@ -44,16 +44,21 @@ It is a small file with 13 columns which describe a number of medical, physical 
 </br>
 **4)Run the Application:**
 <br>
-To run ETL pipeline that cleans data and stores in a database,from the root directory , type: <br>
+To run ETL pipeline that cleans data and stores in a database,from the root directory , type:
+<br>
 <br>
 python data/process_data.py data/heart_failure_clinical_records_dataset.csv data/heartfailure.db 
 <br>
+<br>
 To run the ML pipeline, type:</br>
 python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
-</br>
+<br>
+<br>
 To start the web app and test the classifier, from the root directory of the project type:</br>
-python app/run.py</br>
-Go to http://0.0.0.0:3001
+python app/run.py
+<br>
+<br>
+Go to http://0.0.0.0:5000
 </br>
 </br>  
 
