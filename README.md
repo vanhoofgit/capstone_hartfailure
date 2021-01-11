@@ -11,7 +11,7 @@ The following installations were done in my virtual environment :</br>
  pip3 install sqlalchemy</br>
  pip3 install imblearn</br>
  (This installs joblib,threadpoolctl,scipy,scikit-learn, imbalanced-learn, imblearn</br>
-Content of the requirements.txt file
+Content of the requirements.txt file:
 
 
 
