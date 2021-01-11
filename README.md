@@ -37,6 +37,9 @@ visitor==0.1.3
 Werkzeug==1.0.1
 WTForms==2.3.3
 
+The following installatuions were done :
+ pip3 install pandas
+
 **3) Files:**</br>
 The source file is a csv file, downloaded from Kaggle :
 </br>
