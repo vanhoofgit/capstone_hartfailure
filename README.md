@@ -45,6 +45,7 @@ It is a small file with 13 columns which describe a number of medical, physical 
 **4)Run the Application:**
 <br>
 To run ETL pipeline that cleans data and stores in a database,from the root directory , type: <br>
+<br>
 python data/process_data.py data/heart_failure_clinical_records_dataset.csv data/heartfailure.db 
 <br>
 To run the ML pipeline, type:</br>
