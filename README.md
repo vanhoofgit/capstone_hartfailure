@@ -11,7 +11,6 @@ pip3 install pandas</br>
 pip3 install sqlalchemy</br>
 pip3 install imblearn</br>
 (This installs joblib,threadpoolctl,scipy,scikit-learn, imbalanced-learn, imblearn</br>
-(This installs also joblib,threadpoolctl,scipy,scikit-learn, imbalanced-learn, imblearn</br>
 pip3 install flask</br>
 (This install also itsdangerous, MarkupSafe, Jinja2, click, Werkzeug)</br>
 
