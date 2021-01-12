@@ -20,7 +20,7 @@ pip3 install email_validator
 pip3 install plotly</br>
 </br>
 
-Content of the requirements.txt file:
+Content of the requirements.txt file:</br>
 click==7.1.2
 dnspython==2.1.0
 dominate==2.6.0
@@ -73,11 +73,11 @@ To start the web app and test the classifier, from the root directory of the pro
 python app/run.py
 <br>
 <br>
-Goto localhost://0.0.0.0:5000
+Goto http://localhost:5000
 </br>
 </br>  
 
 **5)Results** </br>
-After running the scripts (see above 4)) a webpage is available.
-On the webpage are shown a few charts about the messages genres and categories and you can type in a message. The classifier will attach the message to a message category.
+After running the scripts (see above 4)) a website is available.
+On this website you will find some background information about the project and it is possible to try the classifier model.
 
