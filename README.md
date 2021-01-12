@@ -49,7 +49,7 @@ To start the web app and test the classifier, from the root directory of the pro
 python app/run.py
 <br>
 <br>
-Go to http://0.0.0.0:5000
+Goto localhost://0.0.0.0:5000
 </br>
 </br>  
 
