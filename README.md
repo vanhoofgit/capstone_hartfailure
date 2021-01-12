@@ -6,7 +6,7 @@ A machine learning project to make a classifier for possible heart failure.
 Heart desease is still one of the leading causes of death worldwide. The aim of the project was to build a binary machine learning classifier that would be able to predict an imminent heart failure
 
 **2)Libraries**</br>
-The following installations were done in my virtual environment :</br>
+The following installations were done in my Python 3.7 virtual environment :</br>
 pip3 install pandas</br>
 pip3 install sqlalchemy</br>
 pip3 install imblearn</br>
