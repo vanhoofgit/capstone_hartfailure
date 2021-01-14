@@ -75,6 +75,7 @@ python app/run.py
 <br>
 Goto http://localhost:5000
 </br>
+Test the classifer without any installation on http://my-heart-failure.herokuapp.com
 </br>  
 
 **5)Results** </br>
