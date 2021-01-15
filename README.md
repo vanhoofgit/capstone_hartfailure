@@ -1,5 +1,11 @@
 # capstone_heart_failure
 A machine learning project to make a classifier for possible heart failure.
+</br>
+</br>
+The blog post on medium :
+</br>
+https://benny-vanhoof.medium.com/predict-heart-failure-with-machine-learning-a71cb6a80b09
+</br>
 
 
 **1)Project Motivation**</br>
